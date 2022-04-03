@@ -1,7 +1,7 @@
 # Plataforma-Projeto-Social-TransCarreiras
 ## Projeto final do curso de Web Full Stack da Recode Pro
 
-## Projeto RecodePro  
+
   
 
 ###### O Programa Recode Pro visa a formação em tecnologia e a empregabilidade de pessoas de 18 a 39 anos, em situação de maior vulnerabilidade social, como programadores full stack.  
